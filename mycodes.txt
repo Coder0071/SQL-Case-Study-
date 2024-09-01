@@ -1,3 +1,5 @@
 	Hi,
 	This is my code test file. 
 	Dont use or clone.. My testing repo.
+
+	Continue contribution is important to learn.
