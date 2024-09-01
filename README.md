@@ -25,11 +25,3 @@ Note: It is highly recommended to create the SQL database on your local machine 
 <br>
 <br>
 <p align="center"><img src="https://media.tenor.com/sojiZ1PEt0QAAAAC/thank-you-thankyou.gif"></p>
-
-
-
-
-
-
-
-
